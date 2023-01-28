@@ -36,8 +36,8 @@ num_words += len(word)
 print("Number of words={}".format(num_words))
 
 ### OUTPUT:
+![v](https://user-images.githubusercontent.com/121303741/215269237-70c83665-349f-4057-be5f-96121a77519c.png)
 
-![Screenshot from 2023-01-28 18-59-49](https://user-images.githubusercontent.com/121303741/215269195-adef9f43-7a5a-4a77-968e-4562cfdbc632.png)
 
 
 
