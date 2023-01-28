@@ -34,9 +34,9 @@ for i in file1:
 word =i.split()
 num_words += len(word)
 print("Number of words={}".format(num_words))
-
+```
 ### OUTPUT:
-![v](https://user-images.githubusercontent.com/121303741/215269237-70c83665-349f-4057-be5f-96121a77519c.png)
+![output](./v.png)
 
 
 
